@@ -45,35 +45,32 @@ Se generan optimos locales, por lo que no se puede usar la función de coste de 
 
 ![Alt text](img/regresion-clasificacion-logistica-interpretación-funcion-coste-I-2.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Función de coste II
 
-regresion-clasificacion-logistica-interpretación-funcion-coste-II-1.png
+Como podemos coger las 2 funciones de coste para lo positivo(spam) y negativo(no spam) y juntarlas en una única función
+
 ![Alt text](img/regresion-clasificacion-logistica-interpretación-funcion-coste-II-1.png)
 
-regresion-clasificacion-logistica-interpretación-funcion-coste-II-2.png
-![Alt text](img/regresion-clasificacion-logistica-interpretación-funcion-coste-II-2.png)
+En morado tenemos la función conjunta de coste
+
+En amarillo la resolición para cada y={0,1} y así vemos como se simplifica para los funciones de coste del apartado anterior.
 
 ## Función de optimización
 
+Misma función que para regresión lineal: Gradient Descent
 
-regresion-clasificacion-logistica-interpretación-funcion-optimizacion-1.png
 ![Alt text](img/regresion-clasificacion-logistica-interpretación-funcion-optimizacion-1.png)
+
+
+
+## Caso Práctico: Detector de SPAM
+
+### CountVectorizer
+una manera de transformar una representación en forma de texto, es decir, en este caso una representación en forma de palabras, a una representación numérica que nuestro algoritmo de Machine Learning sea capaz de comprender.
+
+
+![Alt text](img/regresion-clasificacion-logistica-count-vectorizer.png)
+
+### OneHotEncoder
+
+Pone nombres a las caracteriticas que tenemos (en este caso las palabras)
