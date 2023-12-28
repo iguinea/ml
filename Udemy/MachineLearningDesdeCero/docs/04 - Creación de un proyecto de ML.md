@@ -59,11 +59,57 @@ Dividir nuestros conjuntos de datos:
 
 ![Alt text](img/creacion-model-ml-evaluacion-funcion-hipotesis-2.png)
 
-
-
-
-
 # Selección del modelo
+
+![Alt text](img/creacion-model-ml-seleccion-modelo-1.png)
+
+Si el error en el train set es bajo, y en el test set es bajo: ok
+
+Si el error en el train set es bajo, y en el test set es alto: overfitting
+
+Si el error en el train set es alto, y en el test set es alto: modelo rigido -> Falta mejorarlos
+
+![Alt text](img/creacion-model-ml-seleccion-modelo-2.png)
+
+## Subconjunto de validación
+
+![Alt text](img/creacion-model-ml-seleccion-modelo-3.png)
+
+## Seleccióm de un modelo
+
+![Alt text](img/creacion-model-ml-seleccion-modelo-4.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Caso Práctico: División del conjunto de datos
