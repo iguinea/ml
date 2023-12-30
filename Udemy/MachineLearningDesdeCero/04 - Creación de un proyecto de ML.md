@@ -80,57 +80,50 @@ Si el error en el train set es alto, y en el test set es alto: modelo rigido -> 
 ![Alt text](img/creacion-model-ml-seleccion-modelo-4.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Caso Práctico: División del conjunto de datos
-
 # Preparación del conjunto de datos
+
+![Alt text](img/creacion-model-ml-preparacion-modelo-1.png)
+![Alt text](img/creacion-model-ml-preparacion-modelo-2.png)
+
+![Alt text](img/creacion-model-ml-preparacion-modelo-3.png)
+![Alt text](img/creacion-model-ml-preparacion-modelo-4.png)
+![Alt text](img/creacion-model-ml-preparacion-modelo-5.png)
+
+![Alt text](img/creacion-model-ml-preparacion-modelo-6.png)
+![Alt text](img/creacion-model-ml-preparacion-modelo-7.png)
+![Alt text](img/creacion-model-ml-preparacion-modelo-8.png)
+
+![Alt text](img/creacion-model-ml-preparacion-modelo-9.png)
 
 
 # Caso Práctico: Preparación del conjunto de datos
 
 # Caso Práctico: Creación de Pipelines y Transformadores
 
+![Alt text](img/creacion-model-ml-caso-practico-pipelines-transformadores-1.png)
+
+![Alt text](img/creacion-model-ml-caso-practico-pipelines-transformadores-2.png)
+
 # Evaluación de los resultados
 
+![Alt text](img/creacion-model-ml-avaluacion-resultados-1.png)
+![Alt text](img/creacion-model-ml-avaluacion-resultados-2.png)
+![Alt text](img/creacion-model-ml-avaluacion-resultados-3.png)
+
+Precision: Vision de los falsos positivos
+Exhaustividad: Vision de los falsos negativos
+
+![Alt text](img/creacion-model-ml-avaluacion-resultados-4.png)
+
+![Alt text](img/creacion-model-ml-avaluacion-resultados-5.png)
+F1Score=0,9 --> 90% De acierto
+
+![Alt text](img/creacion-model-ml-avaluacion-resultados-6.png)
+Para obetener los resultados de la grafica en rojo, se ha eliminado la caracteristica AccountAgeDays del modelo, de manera que vemos que se empieza a comportar peor
+
+![Alt text](img/creacion-model-ml-avaluacion-resultados-7.png)
+
+
+
 # Caso Práctico: Evaluación de los resultados
-
-
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
-![Alt text](img/creacion-model-ml--1.png)
 
