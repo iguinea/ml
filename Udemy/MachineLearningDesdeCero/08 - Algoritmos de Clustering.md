@@ -29,6 +29,7 @@ Si tenemos que decidir el numero de centroides, esto quiere decir que tendremos 
 ![Alt text](img/clustering-kmeans-11.png)
 PROBLEMA CON DATOS NO ESFERICOS!
 ![Alt text](img/clustering-kmeans-12.png)
+![Alt Text](img/kmeans_clustering.gif)
 
 
 ## Técnica de Clustering: DBSCAN
@@ -36,20 +37,24 @@ Si kmeans se basa en distancias, DBSCAN se basa en densidades
 
 ![Alt text](img/clustering-dbscan-1.png)
 ![Alt text](img/clustering-dbscan-2.png)
+
 ![Alt text](img/clustering-dbscan-3.png)
 ![Alt text](img/clustering-dbscan-4.png)
 ![Alt text](img/clustering-dbscan-5.png)
 ![Alt text](img/clustering-dbscan-6.png)
+
+![Alt Text](img/dbscan_clustering.gif)
+
 ![Alt text](img/clustering-dbscan-7.png)
 ![Alt text](img/clustering-dbscan-8.png)
-![Alt text](img/clustering-dbscan-1.png)
-![Alt text](img/clustering-dbscan-1.png)
-![Alt text](img/clustering-dbscan-1.png)
-![Alt text](img/clustering-dbscan-1.png)
-![Alt text](img/clustering-dbscan-1.png)
+
 
 ## Evaluación de los resultados de Clustering
 ![Alt text](img/clustering-evaluacion-1.png)
+![Alt text](img/clustering-evaluacion-2.png)
+![Alt text](img/clustering-evaluacion-3.png)
+![Alt text](img/clustering-evaluacion-4.png)
+![Alt text](img/clustering-evaluacion-5.png)
 
 ## Clustering y Ciberseguridad
 ![Alt text](img/clustering-ciberseguridad-1.png)
