@@ -52,13 +52,21 @@ Si kmeans se basa en distancias, DBSCAN se basa en densidades
 ## Evaluación de los resultados de Clustering
 ![Alt text](img/clustering-evaluacion-1.png)
 ![Alt text](img/clustering-evaluacion-2.png)
+
+### ¿Cómo se calcula la pureza?
+Ojo que para esto necesitamos un conjunto de datos etiquetados, aunque para la hora de generar el modelo no lo usemos.
 ![Alt text](img/clustering-evaluacion-3.png)
+
+Pero si no tenemos etiquetas, lo calcularemos usando otras métricas:
 ![Alt text](img/clustering-evaluacion-4.png)
+
 ![Alt text](img/clustering-evaluacion-5.png)
+![Alt text](img/clustering-evaluacion-6.png)
+![Alt text](img/clustering-evaluacion-7.png)
+
+![Alt text](img/clustering-evaluacion-8.png)
+![Alt text](img/clustering-evaluacion-9.png)
+
 
 ## Clustering y Ciberseguridad
 ![Alt text](img/clustering-ciberseguridad-1.png)
-
-
-
-
