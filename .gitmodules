@@ -1,3 +1,6 @@
 [submodule "O`Reilly/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow/handson-ml3"]
 	path = O`Reilly/Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow/handson-ml3
 	url = https://github.com/ageron/handson-ml3.git
+[submodule "Apress/Python Data Analytics With Pandas, NumPy, and Matplotlib/python-data-analytics-3e"]
+	path = Apress/Python Data Analytics With Pandas, NumPy, and Matplotlib/python-data-analytics-3e
+	url = https://github.com/iguinea/python-data-analytics-3e
