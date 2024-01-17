@@ -4,3 +4,9 @@
 [submodule "Apress/Python Data Analytics With Pandas, NumPy, and Matplotlib/python-data-analytics-3e"]
 	path = Apress/Python Data Analytics With Pandas, NumPy, and Matplotlib/python-data-analytics-3e
 	url = https://github.com/iguinea/python-data-analytics-3e
+[submodule "Udemy/MachineLearningDeAalaZ_RedesNeuronales/deeplearning-az"]
+	path = Udemy/MachineLearningDeAalaZ_RedesNeuronales/deeplearning-az
+	url = https://github.com/joanby/deeplearning-az
+[submodule "Udemy/MachineLearningDeAalaZ_DataScience/machinelearning-az"]
+	path = Udemy/MachineLearningDeAalaZ_DataScience/machinelearning-az
+	url = https://github.com/joanby/machinelearning-az
