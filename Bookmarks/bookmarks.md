@@ -23,3 +23,5 @@
 [Course | PyTorch and Deep Learning for Decision Makers | edX](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS116x+3T2022/home)
 
 [Liber3](https://liber3.eth.limo/)
+
+[SuperDataScience](https://www.superdatascience.com/pages/machine-learning)
